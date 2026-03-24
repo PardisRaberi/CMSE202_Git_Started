@@ -15,3 +15,10 @@ git push
 
 git branch add-eating-disorder-file
 git checkout add-eating-disorder-file
+
+
+git clone https://github.com/pardisraberi/CMSE202_Git_Started.git CMSE202_Git_Started_pardis
+
+~/CMSE202/repositories/
+    CMSE202_Git_Started
+    CMSE202_Git_Started_pardis
