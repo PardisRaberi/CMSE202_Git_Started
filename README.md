@@ -11,3 +11,7 @@ eating_disorder_project/
     git add eating_disorder_project/eating_disorders_report.pdf
 git commit -m "Added eating disorders report PDF"
 git push
+
+
+git branch add-eating-disorder-file
+git checkout add-eating-disorder-file
